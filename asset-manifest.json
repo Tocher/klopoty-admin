@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/klopoty-admin/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/klopoty-admin/static/js/main.4cb1f1b4.chunk.js",
+    "main.js.map": "/klopoty-admin/static/js/main.4cb1f1b4.chunk.js.map",
+    "runtime-main.js": "/klopoty-admin/static/js/runtime-main.1c71f384.js",
+    "runtime-main.js.map": "/klopoty-admin/static/js/runtime-main.1c71f384.js.map",
+    "static/js/2.9e812f2a.chunk.js": "/klopoty-admin/static/js/2.9e812f2a.chunk.js",
+    "static/js/2.9e812f2a.chunk.js.map": "/klopoty-admin/static/js/2.9e812f2a.chunk.js.map",
+    "static/js/3.ccd6d522.chunk.js": "/klopoty-admin/static/js/3.ccd6d522.chunk.js",
+    "static/js/3.ccd6d522.chunk.js.map": "/klopoty-admin/static/js/3.ccd6d522.chunk.js.map",
+    "index.html": "/klopoty-admin/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/klopoty-admin/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9e812f2a.chunk.js.LICENSE.txt": "/klopoty-admin/static/js/2.9e812f2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c71f384.js",
+    "static/js/2.9e812f2a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4cb1f1b4.chunk.js"
+  ]
+}
